@@ -1,1 +1,1 @@
-以springboot實作簡易管理系統
+用springboot實作簡易管理系統
